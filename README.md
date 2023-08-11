@@ -10,4 +10,4 @@
 
 *Note: This is a product for personal use, not a commercial product.*
 
-### UI design inspired by this channel: [Online Tutorials](https://www.youtube.com/watch?v=nUUsUAPEjFc&t=2483s)
+UI design inspired by this channel: [Online Tutorials](https://www.youtube.com/watch?v=nUUsUAPEjFc&t=2483s)
