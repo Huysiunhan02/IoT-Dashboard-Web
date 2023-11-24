@@ -2,7 +2,7 @@
 
 ## Description
 
-- Control IoT devices and monitor stats in real time.
+- Control IoT devices and monitor stats in real-time.
 - Use Firebase realtime-database combined with Google sheet to make the database.
 
 ## Preview
@@ -10,4 +10,4 @@
 
 *Note: This is a product for personal use, not a commercial product.*
 
-UI design inspired by this channel: [Online Tutorials](https://www.youtube.com/watch?v=nUUsUAPEjFc&t=2483s)
+
